@@ -12,6 +12,8 @@ public class TestWebAppApplication {
 
 	//added some comment but it doesnt work
 	//now added something again
+	//added new coment
+	//I am master
     //I am slave to at work
 	//TROLOLOLO in slave two
 }
